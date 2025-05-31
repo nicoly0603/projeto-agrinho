@@ -36,18 +36,20 @@ ol li {
     display: inline;
 }
 
-.botao{
-    border: solid 2px #08ad31;
-    border-radius: 20px;
-    color: #030a07e3;
-    background-color: white;
-    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+.botao {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #08a337c9;
+    color: rgb(22, 20, 20); 
+    text-decoration: none; 
+    border-radius: 25px; 
+    margin: 10px; 
+    font-size: 1.1rem;
+    transition: background-color 0.3s;
 }
 
-.botao:hover{
-    background-color: #08ad31;
-    color: white;
-    transform: scale(1.2)
+.botao:hover {
+    background-color: #f6fcf8c9; 
 }
 
 :root {
@@ -80,15 +82,15 @@ header {
   box-shadow: 0 5px 8px #036410b0;
   font-family: Arial, sans-serif;
   position: 1rem;
-  margin-top: 3rem;
+  margin-top: 7rem;
 }
 
 #container {
     display: inline;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 5rem;
-    gap: 1.4rem;
+    padding: 10rem;
+    gap: 1.8rem;
 }
 
 
