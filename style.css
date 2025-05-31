@@ -26,3 +26,8 @@ a:link {
 a:hover {
     color: #6abb7e;
 }
+
+ol {
+    padding: 0px;
+    list-style: none;
+}
