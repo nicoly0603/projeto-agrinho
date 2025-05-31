@@ -3,3 +3,11 @@
 body {
     background-color: #b4f8b4;
 }
+
+footer {
+    background-color: #008000;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
