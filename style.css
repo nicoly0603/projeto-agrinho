@@ -49,3 +49,18 @@ ol li {
     color: white;
     transform: scale(1.2)
 }
+
+:root {
+    --principal-color: #008000;
+    --second-color: #0c803ca2;
+    --text-color: black;
+}
+
+header {
+    background-color: var(--principal-color);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    
+}
