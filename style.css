@@ -18,3 +18,11 @@ footer p {
     font-size: 0.8rem;
     margin-top: 0.4rem;
 }
+
+a:link {
+    color: #101110f3;
+}
+
+a:hover {
+    color: #6abb7e;
+}
