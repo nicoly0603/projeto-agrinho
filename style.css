@@ -75,14 +75,14 @@ header {
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
     width: 1298px;
-  padding: 5px;
+  padding: 6px;
   background-color: #5bd65b;
   border: 3px solid #09e45dcb;
   border-radius: 15px; /* Bordas arredondadas */
   box-shadow: 0 5px 8px #036410b0;
   font-family: Arial, sans-serif;
   position: 1rem;
-  margin-top: 7rem;
+  margin-top: 6.4rem;
 }
 
 #container {
@@ -91,5 +91,9 @@ header {
     justify-content: space-between;
     padding: 10rem;
     gap: 1.8rem;
+}
+
+p {
+    height: -3rem;
 }
 
