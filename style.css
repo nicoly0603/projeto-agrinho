@@ -83,3 +83,12 @@ header {
   margin-top: 3rem;
 }
 
+#container {
+    display: inline;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 5rem;
+    gap: 1.4rem;
+}
+
+
