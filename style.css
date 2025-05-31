@@ -31,3 +31,6 @@ ol {
     padding: 0px;
     list-style: none;
 }
+ol li {
+    display: inline;
+}
