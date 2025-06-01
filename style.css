@@ -17,7 +17,7 @@ footer {
 footer p {
     text-align: center;
     font-size: 0.8rem;
-    margin-top: 0.4rem;
+    margin-top: -0.4rem;
 }
 
 a:link {
@@ -99,4 +99,8 @@ p {
     height: -3rem;
 }
 
-
+* {
+    margin: 0;
+    padding: 0.3rem;
+    box-sizing: border-box;
+}
