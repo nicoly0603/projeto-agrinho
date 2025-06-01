@@ -69,6 +69,7 @@ header {
     margin-top: -1rem;
      box-shadow: 0 4px 8px #036410b0;
      border: 3px solid #09e45dcb;
+     border-radius: 10%;
 }
 
 .cartão {
@@ -83,7 +84,7 @@ header {
   border-radius: 15px; /* Bordas arredondadas */
   box-shadow: 0 5px 8px #036410b0;
   font-family: Arial, sans-serif;
-  position: 1rem;
+  position: 4rem;
   margin-top: 4rem;
   margin-bottom: 8rem;
 }
